@@ -1,0 +1,6 @@
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\bin\Debug\ParticlePlistFilter.exe.config
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\obj\Debug\ParticlePlistFilter.csprojResolveAssemblyReference.cache
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\bin\Debug\ParticlePlistFilter.exe
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\bin\Debug\ParticlePlistFilter.pdb
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\obj\Debug\ParticlePlistFilter.exe
+D:\CSharpProject\ParticlePlistFilter\ParticlePlistFilter\obj\Debug\ParticlePlistFilter.pdb
